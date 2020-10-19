@@ -1,0 +1,27 @@
+{
+  "name": "life-skill-server",
+  "version": "0.1.0",
+  "description": "Technology on which to manage my development skills and return progress reports.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faelfer/life-skill-server.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "faelfer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faelfer/life-skill-server/issues"
+  },
+  "homepage": "https://github.com/faelfer/life-skill-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
