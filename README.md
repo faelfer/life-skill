@@ -1,4 +1,4 @@
-# Life Skill
+# Life Skill Server
 
 ![GitHub issue](https://img.shields.io/github/issues/faelfer/life-skill-server)
 ![GitHub forks](https://img.shields.io/github/forks/faelfer/life-skill-server)
